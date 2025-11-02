@@ -29,8 +29,8 @@ As AI systems scale and become increasingly powerful, getting this right becomes
 Applying clinical psychology and human factors domain expertise to **AI model behaviour and personality** to help solve alignment challenges:
 
 
-Emerging misalignment
-Alignment faking  
+Emerging misalignment [space][space]
+Alignment faking [space][space]
 Hidden objectives
 
 ---
