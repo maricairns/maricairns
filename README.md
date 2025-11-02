@@ -1,5 +1,6 @@
 ## Building Humanity Into The Heart Of AI
 
+---
 
 My career focus is to apply clinical psychology and human factors expertise to AI model behaviour and personality to, in turn, help solve AI alignment challenges.
 
@@ -26,6 +27,8 @@ As AI systems scale and become increasingly powerful, getting this right becomes
 ## 🎯 My Core Focus
 
 Applying clinical psychology and human factors domain expertise to **AI model behaviour and personality** to help solve alignment challenges:
+
+
 Emerging misalignment
 Alignment faking  
 Hidden objectives
