@@ -1,6 +1,6 @@
 ## AI Model Behaviour and Personality, AI Manipulation and Deception
 ---
 
-Helping AI Models Steer Clear of Shady Stuff. AI Model Behaviour. AI Model Personality. AI Model (meta)Cognition. We Are Building AI For More Than 8 Billion Humans. Open to Building Safe AI. My career focus is to apply clinical psychology and human factors domain expertise to AI safety.
+Applying clinical psychology and human factors domain expertise to AI model behaviour and personality; including what we do not want AI to do
 
-I write about AI model behaviour, personality and manipulation at https://maricairns.substack.com/
+Read some of my thoughts here: https://maricairns.substack.com/
