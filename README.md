@@ -1,6 +1,6 @@
 # Clinical psychology and human factors applied to AI safety
 
-Clinical Psychologist, Examining AI Model And AI Agent Behaviour, Manipulation, Deception And Personality (Persona Vectors) From The Build Level Up, including what we do not want AI to do.
+Clinical psychologist applying human factors domain expertise to AI model and AI agent behaviour, manipulation, deception, and personality (persona vectors).
 
 Human Factors in AI. AI and Humans.
 
