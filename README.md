@@ -4,6 +4,6 @@ Clinical psychologist examining AI from the build level up, applying psychology 
 
 AI model and AI agent behaviour, manipulation, deception, and personality (persona vectors).
 
-Human Factors in AI. AI and Humans.
+Human factors in AI. AI and Humans.
 
 Read more here: https://maricairns.substack.com/
