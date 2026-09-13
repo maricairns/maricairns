@@ -4,4 +4,4 @@ Clinical psychologist applying human factors domain expertise to AI model and AI
 
 Human Factors in AI. AI and Humans.
 
-Read some of my thoughts here: https://maricairns.substack.com/
+Read more here: https://maricairns.substack.com/
