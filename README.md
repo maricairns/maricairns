@@ -1,4 +1,4 @@
-# Clinical Psychology And Human Factors Domain Expertise Applied To AI Safety
+# Clinical psychology and human factors applied to AI safety
 
 Clinical Psychologist, Examining AI Model And AI Agent Behaviour, Manipulation, Deception And Personality (Persona Vectors) From The Build Level Up, including what we do not want AI to do.
 
